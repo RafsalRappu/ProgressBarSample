@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ProgressBarSample\ProgressBarSample\bin\Debug\ProgressBarSample.exe.config
+C:\Users\user\source\repos\ProgressBarSample\ProgressBarSample\bin\Debug\ProgressBarSample.exe
+C:\Users\user\source\repos\ProgressBarSample\ProgressBarSample\bin\Debug\ProgressBarSample.pdb
+C:\Users\user\source\repos\ProgressBarSample\ProgressBarSample\obj\Debug\ProgressBarSample.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ProgressBarSample\ProgressBarSample\obj\Debug\ProgressBarSample.Form1.resources
+C:\Users\user\source\repos\ProgressBarSample\ProgressBarSample\obj\Debug\ProgressBarSample.Properties.Resources.resources
+C:\Users\user\source\repos\ProgressBarSample\ProgressBarSample\obj\Debug\ProgressBarSample.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ProgressBarSample\ProgressBarSample\obj\Debug\ProgressBarSample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProgressBarSample\ProgressBarSample\obj\Debug\ProgressBarSample.exe
+C:\Users\user\source\repos\ProgressBarSample\ProgressBarSample\obj\Debug\ProgressBarSample.pdb
